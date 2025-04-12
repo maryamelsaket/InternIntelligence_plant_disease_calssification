@@ -33,6 +33,7 @@ You can access the dataset here:
 [https://data.mendeley.com/datasets/tywbtsjrjv/1]
 
 ## Note 
+i uploaded the model.keras to drive due to size constraints in github free plan 
 Due to time constraints, the results for this project are not included in this repository. However, the code is fully functional, and you can check it directly in the Kaggle Notebook for now.
 here is the link:
 [https://www.kaggle.com/code/mariamelsaket/plant-disease-classification-with-xception]
