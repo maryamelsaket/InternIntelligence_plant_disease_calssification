@@ -13,12 +13,12 @@ For this project, I used a dataset of plant images, which includes images of pla
 
 you can use these photos to make the model predict on: 
 
-![image (10)](https://github.com/user-attachments/assets/78dd6840-c9c8-4347-bb96-d604fc64637b)
-![image (100)](https://github.com/user-attachments/assets/1ca15cde-abce-4cdb-839b-616fbaf04668)
-![image (1021)](https://github.com/user-attachments/assets/dc13a4af-5c74-43a1-bb5e-fb33438eddb2)
-![image (1)](https://github.com/user-attachments/assets/75acc03e-06a2-4c68-8631-d73b56f6d0e2)
-![image (101)](https://github.com/user-attachments/assets/ccedc46a-0a0e-48ca-ae3e-3c6edafeca43)
-![image (10)](https://github.com/user-attachments/assets/36b380b2-4813-4360-a29b-da061420e610)
+![image (123)](https://github.com/user-attachments/assets/e3525a06-bcf9-4202-a5db-dcebd6075968)
+![image (1005)](https://github.com/user-attachments/assets/7cd6df40-baf0-4a6d-9fff-9f6f698c458a)
+![image (1009)](https://github.com/user-attachments/assets/f08626d8-801c-469e-9538-2706a0386215)
+![image (1004)](https://github.com/user-attachments/assets/13290043-0e09-42c2-bdf2-dab3712a9213)
+![image (101)](https://github.com/user-attachments/assets/6fbbf2be-9053-4e99-a598-48309b2400e6)
+![image (110)](https://github.com/user-attachments/assets/ea13e44d-af6a-496f-bd5a-9a3c10e9bafb)
 
 or you may use anyother plant leaf image, just stick to the plant cateogeries you find in the dataset.
 
@@ -33,8 +33,8 @@ You can access the dataset here:
 [https://data.mendeley.com/datasets/tywbtsjrjv/1]
 
 ## Note 
-i uploaded the model.keras to drive due to size constraints in github free plan 
-Due to time constraints, the results for this project are not included in this repository. However, the code is fully functional, and you can check it directly in the Kaggle Notebook for now.
-here is the link:
+i uploaded the "model.keras" to drive due to size constraints in github free plan.
+
+the note is big in size so to view it you can load it in your local machine or simply check it here:
 [https://www.kaggle.com/code/mariamelsaket/plant-disease-classification-with-xception]
 
