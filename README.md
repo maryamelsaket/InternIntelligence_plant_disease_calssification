@@ -35,6 +35,7 @@ You can access the dataset here:
 ## Note 
 i uploaded the "model.keras" to drive due to size constraints in github free plan.
 
+run the streamlit app with this command in your terminal: streamlit run + the location where you will save the model
 the note is big in size so to view it you can load it in your local machine or simply check it here:
 [https://www.kaggle.com/code/mariamelsaket/plant-disease-classification-with-xception]
 
