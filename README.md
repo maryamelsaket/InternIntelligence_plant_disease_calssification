@@ -1,4 +1,4 @@
-# InternIntelligence_plant_disease_classification
+# plant_disease_classification
 # Plant_Disease_classification with Xception model
 
 ## Description
